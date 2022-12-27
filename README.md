@@ -9,5 +9,5 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suryathink&label=Profile%20views&color=0e75b6&style=flat" alt="suryathink" /> </p>
-<img style="height: 300px;"  align="right" src="https://c.tenor.com/2uyENRmiUt0AAAAM/coding.gif"></img>
+
 <br>
