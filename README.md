@@ -1,4 +1,4 @@
-<!-- - 👋 Hi, I’m Surya Prakash Singh
+ 👋 Hi, I’m Surya Prakash Singh
 - 👀 I’m interested in Listening to Podcasts,Reading Books,Playing Chess.
 - 🌱 I’m currently learning Full Stack Web Development(MERN).
 - 📫 You can reach me at suryaprakashsingh110@gmail.com
