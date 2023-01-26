@@ -8,9 +8,9 @@ suryathink/suryathink is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=suryathink&label=Profile%20views&color=0e75b6&style=flat" alt="suryathink" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=suryathink&label=Profile%20views&color=0e75b6&style=flat" alt="suryathink" /> </p> -->
 
-<br> -->
+<br> 
 
 
 
@@ -34,11 +34,11 @@ You can click the Preview link to take a look at your changes.
 
 - 🌱 I’m currently learning Full Stack Web Development
 
-- 💬 Ask me about Javascript
+- 💬 Ask me about Javascript, React
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/codersurya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="codersurya" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/codersurya" target="blank"><img align="center" src="https://raw.githubusercontent.com/suryathink/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="codersurya" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
