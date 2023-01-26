@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Surya Prakash Singh
+<!-- - 👋 Hi, I’m Surya Prakash Singh
 - 👀 I’m interested in Listening to Podcasts,Reading Books,Playing Chess.
 - 🌱 I’m currently learning Full Stack Web Development(MERN).
 - 📫 You can reach me at suryaprakashsingh110@gmail.com
@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suryathink&label=Profile%20views&color=0e75b6&style=flat" alt="suryathink" /> </p>
 
-<br>
+<br> -->
 
 
 
@@ -47,7 +47,7 @@ You can click the Preview link to take a look at your changes.
 <br>
 <p align="center">
     <a href="https://github.com/suryathink/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Surya streak" src="https://github-readme-streak-stats.herokuapp.com/?user=akash-github-25&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Surya streak" src="https://github-readme-streak-stats.herokuapp.com/?user=suryathink&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
  <br/> <div>
