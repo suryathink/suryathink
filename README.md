@@ -30,11 +30,9 @@ You can click the Preview link to take a look at your changes.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suryathink&label=Profile%20views&color=0e75b6&style=flat" alt="suryathink" /> </p>
 <img style="height: 300px;"  align="right" src="https://c.tenor.com/2uyENRmiUt0AAAAM/coding.gif"></img>
 
-<!-- <p align="left"> <a href="https://akash-github-25.github.io/" target="blank"><img src="https://img.shields.io/badge/Portfolio_-000?style=for-the-badge&logo=ko-fi&logoColor=blue" alt="Akash__Mishra" /></a> </p>     -->
 
 <p align="left"> <a href="mailto:suryaprakashsingh110@gmail.com" target="blank"><img src="https://img.shields.io/badge/Reach_to_me_via_Mail_-000?style=for-the-badge&logo=gmail&logoColor=gold" alt="Mail" /></a> </p>
 
-<!-- <p align="left"> <a href="https://drive.google.com/file/d/1wpB4xqCoIRlumqVN95RXQl6OEbWncXKe/view?usp=sharing" target="blank"><img src="https://img.shields.io/badge/Resume_-000?style=for-the-badge&logo=files&logoColor=yellow" alt="Resume" /></a> </p> -->
 
 - 🌱 I’m currently learning Full Stack Web Development
 
