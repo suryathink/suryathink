@@ -25,7 +25,7 @@ You can click the Preview link to take a look at your changes.
 
 
 <h1 align="center">Hi 👋, I'm Surya Prakash Singh </h1>
-<h3 align="center">A full stack web developer from India</h3>
+<h3 align="center">A Full Stack Web Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suryathink&label=Profile%20views&color=0e75b6&style=flat" alt="suryathink" /> </p>
 <img style="height: 300px;"  align="right" src="https://c.tenor.com/2uyENRmiUt0AAAAM/coding.gif"></img>
@@ -56,7 +56,7 @@ You can click the Preview link to take a look at your changes.
     <a href="https://www.javascript.com/" target="_blank"> <img height="60px" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png"/></a><a href="https://reactjs.org/" target="_blank"> <img height="60px" width="60px" src="https://camo.githubusercontent.com/cda2bff49eb0cd388393e08dd91cc3cf461f095e387d3fdcb8648ab0418010aa/68747470733a2f2f692e67697068792e636f6d2f6d656469612f654e41736a4f353574506267616f72376d612f323030772e77656270"/></a>
     <a style="padding-right:8px;" href="https://nodejs.org/en/" target="_blank"><img height="60px" src="https://camo.githubusercontent.com/bb12151c6b0cad592b4b7449df388a6db7aa7ceae45ef7cc03c9d4cab56dc90e/68747470733a2f2f6d65646961332e67697068792e636f6d2f6d656469612f6b64466338667562675333316238447356752f67697068792e77656270"/> </a>
 <!--     <a style="padding-right:8px;" href="https://getbootstrap.com/" target="_blank"> <img height="60px" src="https://getbootstrap.com/docs/5.2/assets/brand/bootstrap-logo-shadow.png"/></a> -->
-    <a style="padding-right:8px;" href="https://www.java.com/en/" target="_blank"> <img height="60px" src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png"/></a>
+<!--     <a style="padding-right:8px;" href="https://www.java.com/en/" target="_blank"> <img height="60px" src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png"/></a> -->
 <!--     <a style="padding-right:8px;" href="[https://www.google.com/sheets/about/](https://www.typescriptlang.org/)" target="_blank"> <img height="60px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/typescript_original_logo_icon_146317.png"/></a> -->
     <a style="padding-right:8px;" href="https://www.mongodb.com/home" target="_blank"> <img height="60px" src="https://webimages.mongodb.com/_com_assets/cms/kuyjf3vea2hg34taa-horizontal_default_slate_blue.svg"/></a>
     <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/545/451/png-transparent-node-js-express-js-javascript-solution-stack-web-application-others-angle-text-rectangle-thumbnail.png" alt="express" height="60px"/> </a>
