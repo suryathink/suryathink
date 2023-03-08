@@ -20,9 +20,9 @@
 <p align="left"> <a href="mailto:suryaprakashsingh110@gmail.com" target="blank"><img src="https://img.shields.io/badge/Reach_to_me_via_Mail_-000?style=for-the-badge&logo=gmail&logoColor=gold" alt="Mail" /></a> </p>
 
 
-- 🌱 I’m currently learning Full Stack Web Development
+- 🌱 I’m a Full Stack Web Developer skilled in MERN Stack.
 
-- 💬 Ask me about Javascript, React
+- 💬 Ask me about Javascript, React,NodeJs, MongoDB,ExpressJs.
 - 💻 &nbsp; Checkout my [Portfolio](https://suryathink.github.io/).
 
 
