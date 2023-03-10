@@ -3,7 +3,7 @@
 <br> 
 
 <h1 align="center">Hi 👋, I'm Surya Prakash Singh </h1>
-<h3 align="center">A Full Stack Web Developer from India</h3>
+<h3 align="center">A Full Stack Web Developer From India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suryathink&label=Profile%20views&color=0e75b6&style=flat" alt="suryathink" /> </p>
 <img style="height: 300px;"  align="right" src="https://c.tenor.com/2uyENRmiUt0AAAAM/coding.gif"></img>
