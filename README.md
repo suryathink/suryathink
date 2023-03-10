@@ -2,14 +2,6 @@
 
 <br> 
 
-
-
-
-
-
-
-
-
 <h1 align="center">Hi 👋, I'm Surya Prakash Singh </h1>
 <h3 align="center">A Full Stack Web Developer from India</h3>
 
@@ -20,7 +12,7 @@
 <p align="left"> <a href="mailto:suryaprakashsingh110@gmail.com" target="blank"><img src="https://img.shields.io/badge/Reach_to_me_via_Mail_-000?style=for-the-badge&logo=gmail&logoColor=gold" alt="Mail" /></a> </p>
 
 
-- 🌱 I’m a Full Stack Web Developer skilled in MERN Stack.
+- 🌱 I’m a Full Stack Web Developer Skilled in MERN Stack.
 
 - 💬 Ask me about Javascript, React,NodeJs, MongoDB,ExpressJs.
 - 💻 &nbsp; Checkout my [Portfolio](https://suryathink.github.io/).
