@@ -180,7 +180,6 @@ flowchart TD
 
 - Distributed Systems and System Design
 - Microservices Architecture
-- Kafka and RabbitMQ
 - Transactional Outbox Pattern
 - CQRS and Event Sourcing
 - Database Internals and Optimization
