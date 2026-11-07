@@ -1,6 +1,6 @@
 # Hi 👋, I'm Surya Prakash Singh
 
-### Backend Engineer | Backend-Heavy Full Stack Developer | Building Scalable Systems
+### Backend Engineer | Backend-Heavy Full Stack Developer | Building Distributed Scalable Systems
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=suryathink&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
