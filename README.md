@@ -56,7 +56,7 @@ Built a Slack/Zulip-inspired real-time communication platform with support for:
 
 **Impact:** Built a real-time messaging platform supporting 2,500+ concurrent users.
 
-[View Repository](https://github.com/suryathink)
+[View Repository](https://github.com/suryathink/chat-backend)
 
 ### 2. AI-Powered Image Generator
 
@@ -69,7 +69,7 @@ A full-stack AI application that generates images using AI APIs.
 - Implemented pagination and infinite scrolling
 - Developed responsive frontend interfaces
 
-[View Repository](https://github.com/suryathink)
+[View Repository](https://github.com/suryathink/AI-Image-Generator)
 
 ### 3. AI-Powered Knowledge Base / RAG Application
 
@@ -83,7 +83,7 @@ Exploring Retrieval-Augmented Generation to build context-aware AI applications.
 - Semantic search and context retrieval
 - LLM-powered question answering
 
-[View Repository](https://github.com/suryathink)
+[View Repository](https://github.com/suryathink/ai-customer-support-web-app)
 
 ---
 
