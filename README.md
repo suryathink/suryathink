@@ -12,20 +12,20 @@ I'm a **Backend-focused Full Stack Developer** passionate about building scalabl
 
 I primarily work with **Node.js, TypeScript, NestJS, React, PostgreSQL and MongoDB**, with hands-on experience designing APIs, integrating third-party services and building production-grade applications.
 
-- 💻 Backend-heavy Full Stack Engineer
-- 🏗️ Experienced in designing and building systems from scratch
-- ⚡ Built real-time messaging systems supporting 2,500+ concurrent users
-- 🦷 Developed healthcare and payment workflows handling 25K+ monthly appointments
-- 🔌 Experienced with REST APIs, WebSockets, Redis and microservices
-- ☁️ Worked with AWS, Docker and CI/CD pipelines
-- 🤖 Exploring AI engineering, LLMs and RAG applications
-- 🌱 Continuously learning system design and distributed systems
+-  Backend-heavy Full Stack Engineer
+-  Experienced in designing and building systems from scratch
+-  Built real-time messaging systems supporting 2,500+ concurrent users
+-  Developed healthcare and payment workflows handling 25K+ monthly appointments
+-  Experienced with REST APIs, WebSockets, Redis and microservices
+-  Worked with AWS, Docker and CI/CD pipelines
+-  Exploring AI engineering, LLMs and RAG applications
+-  Continuously learning system design and distributed systems
 
 📫 **Reach me:** [Email](mailto:suryaprakashsingh110@gmail.com)
 
 ---
 
-## 🚀 Professional Highlights
+##  Professional Highlights
 
 | Area | Experience & Impact |
 |---|---|
@@ -223,5 +223,5 @@ flowchart TD
 </p>
 
 <p align="center">
-  <b>Building things that scale. Learning things that matter. 🚀</b>
+  <b>Building things that scale. Learning things that matters.</b>
 </p>
